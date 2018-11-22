@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Grigorev Vladimir](https://up.htmlacademy.ru/htmlcss/23/user/929699).
+* Наставник: [Irina Shasheva](https://htmlacademy.ru/profile/id130615).
 
 ---
 
